@@ -1,0 +1,11 @@
+{
+    "name": "Widget",
+    "description": "My new amazing widget",
+    "config": "",
+    "keys": [
+      {
+        "name": "data",
+        "type": "NUMBER"
+      }
+    ]
+  }

@@ -1,0 +1,49 @@
+  {
+   "configurator":{
+      "style":{
+        "background":{
+           "displayName":"Background Color",
+           "type":"STRING",
+           "ui":"colorPicker"
+        },
+         "color":{
+            "displayName":"Text Color",
+            "type":"STRING",
+            "ui":"colorPicker"
+         },
+         "fontSize":{
+            "displayName":"Font Size",
+            "type":"NUMBER",
+            "ui":"input"
+         }
+      },
+      "configuration":{
+         "prefix":{
+            "displayName":"prefix",
+            "type":"STRING",
+            "ui":"input"
+         },
+         "postfix":{
+            "displayName":"postfix",
+            "type":"STRING",
+            "ui":"input"
+         }
+      }
+   },
+   "store":{
+      "icon":"https://pitcher.versatile.la/images/cloudConCard.png",
+      "keywords":[
+         "Data",
+         "Number",
+      ],
+      "featuredImage":"https://pitcher.versatile.la/images/featuredDefault.png",
+      "screenShots":[
+         "https://pitcher.versatile.la/images/screenShotDefault.png",
+         "https://pitcher.versatile.la/images/screenShotDefault.png",
+         "https://pitcher.versatile.la/images/screenShotDefault.png"
+      ],
+      "categories":[
+         "Productivity"
+      ]
+   }
+}

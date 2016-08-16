@@ -1,0 +1,52 @@
+  {
+   "configurator":{
+      "style":{
+        "background":{
+           "displayName":"Background color",
+           "type":"STRING",
+           "ui":"colorPicker"
+        },
+        "color":{
+          "displayName":"Text Color",
+          "type":"STRING",
+          "ui":"colorPicker"
+        },
+        "fontSize":{
+          "displayName":"Font Size",
+          "type":"STRING",
+          "ui":"slider"
+        }
+      },
+      "configuration":{
+         "prefix":{
+            "displayName":"Prefix",
+            "type":"STRING",
+            "ui":"input"
+         },
+         "postfix":{
+            "displayName":"Postfix",
+            "type":"STRING",
+            "ui":"input"
+         }
+      }
+   },
+   "store":{
+      "icon":"https://pitcher.versatile.la/images/cloudConCard.png",
+      "keywords":[
+         "Data",
+         "Con",
+         "Health",
+         "Number",
+         "Data"
+      ],
+      "featuredImage":"https://pitcher.versatile.la/images/featuredDefault.png",
+      "screenShots":[
+         "https://pitcher.versatile.la/images/screenShotDefault.png",
+         "https://pitcher.versatile.la/images/screenShotDefault.png",
+         "https://pitcher.versatile.la/images/screenShotDefault.png"
+      ],
+      "categories":[
+         "Productivity"
+      ]
+   }
+}
